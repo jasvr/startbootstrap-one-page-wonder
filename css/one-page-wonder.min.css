@@ -3,6 +3,10 @@
 h1,h2,h3,h4,h5,h6 {
     font-family: Catamaran;
     font-weight: 800!important}
+p{
+    font-size: 1.2rem;
+}
+
 .btn-xl {
     text-transform: uppercase;
     padding: 1.5rem 3rem;
@@ -36,7 +40,14 @@ header.masthead {
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
-    background-size: cover}
+    background-size: contain;
+    background-image: url("../img/cover-clay-site.svg");
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+
+  
+}
 header.masthead .masthead-content {
     z-index: 1;
     position: relative}
