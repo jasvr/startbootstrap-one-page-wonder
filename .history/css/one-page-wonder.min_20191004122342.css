@@ -2,13 +2,10 @@
     font-family: Lato}
 h1,h2,h3,h4,h5,h6 {
     font-family: Catamaran;
-    font-weight: 800!important;
-    text-align: center;
-}
-    
+    font-weight: 800!important}
+    text
 p{
     font-size: 1.2rem;
-    text-align: center;
 }
 
 .btn-xl {

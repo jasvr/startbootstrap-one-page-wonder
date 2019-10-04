@@ -16,15 +16,12 @@ h5,
 h6 {
   font-family: 'Catamaran';
   font-weight: 800 !important;
-  text-align: center;
 }
 p{
     font-size: 1.2rem;
     text-align: center;
 }
-a{
-  color: #006cdf;
-}
+
 
 .btn-xl {
   text-transform: uppercase;
